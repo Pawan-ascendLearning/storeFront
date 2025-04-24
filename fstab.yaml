@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/{org}/{site}/
+    url: http://drive.google.com/drive/folders/1_LjTUC1mpVAXrcLqQ1ah3J4bVorUDMr_
     type: markup
 
 folders:
